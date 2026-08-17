@@ -1,4 +1,5 @@
 version: STSv1
 mode: enforce
 mx: drive.stuijk.com
+mx: mail.stuijk.com
 max_age: 604800
